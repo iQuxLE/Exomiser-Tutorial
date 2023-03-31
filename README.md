@@ -16,7 +16,7 @@ unzip with
 unzip Exomiser-Tutorial.zip
 ```
 
-Since the VCF file for the Pfeiffer family example data is a bit bigger you need to download that seperately and put it into the Exomiser-Tutorial folder.
+Since the VCF files for parts of the example data are a bit larger, you need to download the following seperately and put it into the Exomiser-Tutorial folder.
 
 ```
 wget https://github.com/iQuxLE/Exomiser-Tutorial/blob/main/pfeiffer-family-vcf.zip
