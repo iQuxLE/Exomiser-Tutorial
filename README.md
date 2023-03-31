@@ -2,7 +2,7 @@
 
 download the data via
 ```
-wget https://github.com/iQuxLE/Exomiser-Tutorial/blob/main/Exomiser-Tutorial.zip
+wget https://github.com/iQuxLE/Exomiser-Tutorial/raw/main/Exomiser-Tutorial.zip
 ```
 or clone the repository
 
@@ -19,7 +19,7 @@ unzip Exomiser-Tutorial.zip
 Since the VCF files for parts of the example data are a bit larger, you need to download the following seperately and put it into the Exomiser-Tutorial folder.
 
 ```
-wget https://github.com/iQuxLE/Exomiser-Tutorial/blob/main/pfeiffer-family-vcf.zip
+wget https://github.com/iQuxLE/Exomiser-Tutorial/raw/main/pfeiffer-family-vcf.zip
 ```
 
 ```
