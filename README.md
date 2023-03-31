@@ -13,3 +13,13 @@ unzip with
 ```
 unzip Exomiser-Tutorial.zip
 ```
+
+Since the VCF file for the Pfeiffer example data is a bit bigger you need to download that seperately and put it into the Exomiser-Tutorial folder.
+
+```
+wget 
+```
+
+```
+unzip additional_files.zip -d Exomiser-Tutorial/exomiser-config/
+```
