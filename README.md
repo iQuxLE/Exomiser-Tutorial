@@ -21,5 +21,5 @@ wget
 ```
 
 ```
-unzip additional_files.zip -d Exomiser-Tutorial/exomiser-config/
+unzip pfeiffer-family-vcf.zip -d Exomiser-Tutorial/exomiser-config/
 ```
