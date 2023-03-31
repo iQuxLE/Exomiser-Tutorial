@@ -7,3 +7,9 @@ or clone the repository
 ```
 git clone https://github.com/iQuxLE/Exomiser-Tutorial.git
 ```
+
+unzip with 
+
+```
+unzip Exomiser-Tutorial.zip
+```
