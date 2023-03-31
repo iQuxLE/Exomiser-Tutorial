@@ -1,3 +1,5 @@
+This is a supporting data repository for the Exomiser-Tutorial:
+
 download the data via
 ```
 wget https://github.com/iQuxLE/Exomiser-Tutorial/blob/main/Exomiser-Tutorial.zip
